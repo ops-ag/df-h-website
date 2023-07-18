@@ -1,5 +1,7 @@
 title: Compliance with EU Directive 2000/31/EC
 description: This domain is use for other protocols than http. In compliance with Article 5 of the EU Directive 2000/31/EC, the following information is provided.
 show_downloads: false
-show_repository_url: false
 theme: jekyll-theme-hacker
+
+github:
+    is_project_page: false
